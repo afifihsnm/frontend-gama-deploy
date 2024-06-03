@@ -1,0 +1,20 @@
+ .history-page{
+    margin: auto;
+    max-width: 25.75rem;
+    height: 100vh;
+    position: relative;
+}
+
+.history-page .header {
+    align-items: center;
+    justify-content: center;
+}
+
+.waktu {
+    font-weight: 500;
+}
+
+.history-page .timeline{
+    margin: 0 1rem;
+    
+}
